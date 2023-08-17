@@ -1,8 +1,7 @@
 ----------------------- libro.txt -----------------------
 EL LIBRO MAS FAMOSO DEL MUNDO
 AUTORES:
-    SERGIO DANIEL LOPEZ VARGAS
-    ANDRES FELIPE ARIAS AJIACO
+   
 CAPITULO UNO
 
 CAPITULO DOS
