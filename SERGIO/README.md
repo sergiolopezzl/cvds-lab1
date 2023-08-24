@@ -18,4 +18,6 @@ if hay_leche == "S":
     print("sacamos la leche de la nevera")
 print("hemos terminado")
 ```
-
+## Ejercicios GitBranch
+![GitPrincipal](../IMAGENES/Ejercicios.png)
+![GitPrincipal](../IMAGENES/Ejercicio2.png)
